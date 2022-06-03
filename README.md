@@ -1,5 +1,9 @@
 # Exchange_rates fetcher.
 
+## Summary:
+Gets the international exchange rate for all western currencies vs de Euro, obtained from the bank of Poland using their REST API (originally the exchange rate was in comparisson to the polish zloty, but with some transformations we obtain the exchanges vs the Euro)
+
+
 ## Instructions
 
 _Requirements_
